@@ -1,0 +1,14 @@
+python-dotenv
+requests
+beautifulsoup4
+markdown
+duckdb
+numpy
+python-dateutil
+docstring-parser
+httpx
+pydantic
+pillow
+faker
+scipy
+fastapi
